@@ -14,8 +14,8 @@ An interactive map of all 100 North Carolina counties with live statewide parcel
 ## Data
 
 - Parcels: [NC OneMap statewide parcels](https://www.nconemap.gov/pages/parcels), standardized from all 100 counties and the Eastern Band of Cherokee Indians. Counties are the authoritative source.
-- County boundaries: NC OneMap regional boundaries service
-- Basemaps: Esri Light Gray Canvas, USGS The National Map (Topo) and Esri World Imagery. None need an API key.
+- County boundaries: NC OneMap regional boundaries service.  One of the first in the nation.
+- Basemaps: Esri Light Gray Canvas, USGS The National Map (Topo) and Esri World Imagery. Chose from the top-right corner of the map.
 
 Data is read live from public services. No API key is needed and no data is stored in this repo.
 
